@@ -115,7 +115,8 @@ I configured a user data script to automatically install Apache and deploy a web
 
 ### Screenshot 3: Web Server Output in Browser
 
---
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/27fb6130-5c25-4137-bca4-95f6a7da6994" />
+
 
 ## Result 
 
