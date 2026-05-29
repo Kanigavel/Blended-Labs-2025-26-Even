@@ -1,5 +1,10 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
+* **Name**: Kanigavel M
+* **Register Number**: 212224240070
+* **Date of Submission**: 29.05.2026
+
+
 ## Title
 
 Scale and Load Balance Your Architecture
