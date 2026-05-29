@@ -95,7 +95,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 ---
 
 ## Workflow (Student Explanation)
-
+ 
 (Write the steps you followed in your own words)
 
 1.The EC2 Dashboard was accessed through the AWS Management Console to explore the Amazon EBS volume types.
